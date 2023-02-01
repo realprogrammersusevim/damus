@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "0F6E64D9-4F6D-4479-B4D5-C4045E5CB57D": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "3EF2834F-BA90-46A6-8B80-EE6F2BF72CED": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "CA3A57BB-A2D8-4CC5-9814-BF9263E51515": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "nsfw.mlmodel",
+            "path": "com.apple.CoreML/nsfw.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "CA3A57BB-A2D8-4CC5-9814-BF9263E51515"
+}
